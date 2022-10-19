@@ -1,0 +1,28 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ body {
+    font-family: 'Share Tech Mono', monospace;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-size: 3rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: lime;
+    padding: 4rem;
+    
+ }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+ }
+
+

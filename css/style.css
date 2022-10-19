@@ -25,4 +25,24 @@
     align-items: center; 
  }
 
+ #password {
+    animation: rotation 2s linear;
+   
+ }
+
+ @keyframes rotation {
+    0% {transform: rotate(1turn);}
+ }
+
+
+ #password:hover {
+    color: red;
+ }
+
+ #password:active {
+    color: blue;
+ }
+
+
+
 
